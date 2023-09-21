@@ -6,7 +6,8 @@
     "registry": "https://npm.pkg.github.com/SB-SLIM"
   },
   "scripts": {
-    "rollup": "rollup -c --bundleConfigAsCjs"
+    "rollup": "rollup -c --bundleConfigAsCjs",
+    "test": "react-scripts test"
   },
   "author": "SBSLIM",
   "license": "ISC",
